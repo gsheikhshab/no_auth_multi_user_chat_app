@@ -4,7 +4,7 @@ export default function chatComp() {
 
 	return (
 		<div>
-		  <p style="background-color: green"> Golnar says we are in chatComp </p>
+		  <p style={{color: "green", fontSize: "16px"}}> Golnar says we are in chatComp </p>
 		</div>
 	)
 

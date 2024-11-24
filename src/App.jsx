@@ -10,7 +10,8 @@ function App() {
   return (
     <>
     <div>
-	<p style="color:red"> G </p>
+	<p style={{color: "red", fontSize: "16px"}}> G </p>
+	<chatComp />
     </div>
     </>
   )
