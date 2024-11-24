@@ -9,7 +9,9 @@ function App() {
 
   return (
     <>
-      <chatComp />
+    <div>
+	<p> G </p>
+    </div>
     </>
   )
 }
