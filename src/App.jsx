@@ -10,7 +10,7 @@ function App() {
   return (
     <>
     <div>
-	<p> G </p>
+	<p style="color:red"> G </p>
     </div>
     </>
   )
