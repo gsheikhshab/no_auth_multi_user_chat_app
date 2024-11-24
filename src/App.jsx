@@ -7,14 +7,7 @@ import chatComp from "./components/chat.tsx"
 function App() {
   const [count, setCount] = useState(0)
 
-  return (
-    <>
-    <div>
-	<p style={{color: "red", fontSize: "16px"}}> G </p>
-	<chatComp />
-    </div>
-    </>
-  )
+  return <chatComp />;
 }
 
 export default App
