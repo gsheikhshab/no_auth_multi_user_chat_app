@@ -10,7 +10,7 @@ function App() {
   return (
     <>
     <div>
-	<p style="background-color:powderblue;"> G </p>
+	<p> G </p>
     </div>
     </>
   )
