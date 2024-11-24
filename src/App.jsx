@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-    <div>
+    <div style="background-color:green">
 	<p> G </p>
     </div>
     </>
